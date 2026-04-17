@@ -1,6 +1,9 @@
 import random
 
 class Jugador:
+    '''
+    Esta es la calse jugador aportación hecha por raul
+    '''
     def __init__(self, nombre):
         self.nombre = nombre
     
